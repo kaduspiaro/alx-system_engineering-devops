@@ -1,3 +1,2 @@
 #!/bin/bash
-pr "Hello, World"
-why?
+printf "%s\n" "Hello, World" "why?"
